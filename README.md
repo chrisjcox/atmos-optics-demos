@@ -9,4 +9,4 @@ used by hobbiests, in classrooms, or for self-study.
 
 #### Noctilucent Clouds: How to Verify a Sighting
 
-[nlc_verify.html](https://htmlpreview.github.io/?https://github.com/chrisjcox/atmos-optics-demos/demos/nlc_verify.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=chrisjcox/atmos-optics-demos&file=live/nlc_verify.mlx)
+[nlc_verify.html](https://htmlpreview.github.io/?https://github.com/chrisjcox/atmos-optics-demos/blob/main/demos/ncl_verify.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=chrisjcox/atmos-optics-demos&file=live/nlc_verify.mlx)
