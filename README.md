@@ -1,4 +1,6 @@
-<img src="other/IMG_0508.JPG" width="600">
+<div style="text-align: center;">
+  <img src="other/IMG_0508.JPG" width="800" height="200" alt="Description of the image">
+</div>
 
 This (in-progress) collection contains MATLAB live scripts illustrating 
 various topics in atmospheric science related to photography and 
