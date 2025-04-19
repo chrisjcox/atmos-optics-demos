@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="other/IMG_0508.JPG" width="800" height="200" alt="Description of the image">
+  <img src="other/IMG_0508.JPG" width="800" height="400" alt="Description of the image">
 </div>
 
 This (in-progress) collection contains MATLAB live scripts illustrating 
