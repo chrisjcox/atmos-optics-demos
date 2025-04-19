@@ -1,4 +1,4 @@
-<img src="other/IMG_0508.JPG" width="200">
+<img src="other/IMG_0508.JPG" width="600">
 
 This (in-progress) collection contains MATLAB live scripts illustrating 
 various topics in atmospheric science related to photography and 
@@ -9,4 +9,4 @@ used by hobbiests, in classrooms, or for self-study.
 
 #### Noctilucent Clouds: How to Verify a Sighting
 
-[nlc_verify.html](https://htmlpreview.github.io/?https://github.com/chrisjcox/atmospheric-optics/demos/nlc_verify.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=chrisjcox/atmos-optics-demos&file=live/nlc_verify.mlx)
+[nlc_verify.html](https://htmlpreview.github.io/?https://github.com/chrisjcox/atmos-optics-demos/demos/nlc_verify.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=chrisjcox/atmos-optics-demos&file=live/nlc_verify.mlx)
